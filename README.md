@@ -2,7 +2,7 @@
 
 ## Description
 
-The dataset was generated from ab-initio molecular dynamics simulations. The dynamics was run using GFN2-xTB method [1,2] within ChemShell [3,4]. The total energy and atomic forces taken from the dynamics were recalculated at the PBE-D3(BJ)/6-31G* [5-8] level of theory. 
+The dataset was generated from ab-initio molecular dynamics simulations. The dynamics was run using GFN2-xTB method [1,2] within ChemShell [3,4]. The total energy and atomic forces taken from the dynamics were recalculated at the PBE-D3(BJ)/6-31G* level of theory [5-8]. 
 
 ## Format
 
